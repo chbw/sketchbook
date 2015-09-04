@@ -1,4 +1,7 @@
-// An Arduino Micro sketch which prevents a computer from going to sleep.
+// An Arduino Micro sketch which prevents a computer (and its display) from going to sleep.
+// This can be useful when running a presentation/slideshow/etc on somebody elses computer
+// where one can not modify the power saving settings.
+//
 // Christoph B. Wurzinger
 
 void setup(){
