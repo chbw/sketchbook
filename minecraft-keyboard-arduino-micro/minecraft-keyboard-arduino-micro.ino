@@ -1,3 +1,9 @@
+// An Arduino Micro sketch which allows to controll your favourite Game
+// by the push of a button. Created beacause some people are not capable of
+// pressing the 'w' button on the keyboard.
+// 
+// Daniel Kreimer & Benjamin L. Witzerstorfer & Simon Hacker
+
 const int port_num = 2;
 
 void setup() {
